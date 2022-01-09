@@ -1,0 +1,9 @@
+
+[run]
+omit =
+  *__init__*
+  *.venv*
+
+
+[html]
+directory = coverage_report

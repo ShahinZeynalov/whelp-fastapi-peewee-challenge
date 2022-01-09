@@ -1,0 +1,8 @@
+-r common.txt
+
+black==21.5b0
+flake8==3.9.1
+asynctest==0.13.0
+pytest==6.2.3
+pytest-cov==2.11.1
+httpx==0.17.1
